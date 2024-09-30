@@ -25,4 +25,9 @@ language = 'zh_CN'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
+
+# conf.py 文件中的相关设置
+html_show_sourcelink = False
+
 html_static_path = ['_static']
+
